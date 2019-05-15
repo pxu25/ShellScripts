@@ -5,4 +5,3 @@
 
 ### add-new-local-user.sh
 #### A Shell script for adding new local user
-s
